@@ -1,5 +1,5 @@
 # BRmodelo-Alocacao
-Alocação de filmes em BRmodelo - **Modelo Complexo**
+Alocação de filmes em BRmodelo - **Modelo Complexo** de Alocação de Filmes
 
 # Conceitual:
 ![ModeloLocadoraConceitual](https://user-images.githubusercontent.com/58158274/131192421-352e6552-dbb3-4c5a-a905-ccb2f802cd70.png)
