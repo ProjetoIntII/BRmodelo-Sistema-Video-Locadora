@@ -1,5 +1,5 @@
 # BRmodelo-Alocacao
-Alocação de filmes em BRmodelo - **Modelo Complexo** de Alocação de Filmes
+Alocação de filmes em BRmodelo - **Modelo Complexo** de Sistema de Vídeo Locadora
 <pre>
           Nomes:                                        RA:
           
